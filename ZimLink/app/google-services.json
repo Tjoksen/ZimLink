@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723972355866",
+    "firebase_url": "https://ecommerce-be638.firebaseio.com",
+    "project_id": "ecommerce-be638",
+    "storage_bucket": "ecommerce-be638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723972355866:android:23cb2f0f6084dea1",
+        "android_client_info": {
+          "package_name": "postandcomment.talent.com.myjsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723972355866-0l1s1o8rf6cpist4jrm7rf99c2hde52l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "postandcomment.talent.com.myjsc",
+            "certificate_hash": "44e6bb12d99c4027eec0dc151db26d4ae1d48db7"
+          }
+        },
+        {
+          "client_id": "723972355866-cgsad63cbmrrp4r3c5c9559sfsuidkb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Mg55UwtY7P_4-lC960WL_hCnBaU025w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723972355866-cgsad63cbmrrp4r3c5c9559sfsuidkb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
